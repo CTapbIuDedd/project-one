@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CTapbIuDedd/project-one/issues"
   },
-  "homepage": "https://github.com/CTapbIuDedd/project-one#readme"
+  "homepage": "https://github.com/CTapbIuDedd/project-one#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
